@@ -10,7 +10,7 @@ And by choice i choose 'a' means add new contacts and it give me how to pass all
 ![image](https://user-images.githubusercontent.com/103323625/193466399-1c6c7dd1-3c74-4ab5-88aa-45a2ca9cdb00.png)
 
 After that it load an updated list of contacts including the one you pass there and as we see the pass 3 information by we
-get 4 info including the age ,just after getting your birth date we can easy your current year old with java special library in java 
+get 4 info including the age ,just after getting your birth date we can easy calculate  your current year old with java special library in java 
 
 ![image](https://user-images.githubusercontent.com/103323625/193466503-bb51b69f-97de-4f9c-b839-6cb1eb37f54a.png)
 
